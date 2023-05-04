@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HenriettaObioha
 - 👀 I’m interested in analysis
-- 🌱 I’m currently learning how java script assertions work 
-- 💞️ I’m looking to collaborate on quality assurance and testing with chai
 - 📫 How to reach me: henriettaobioha1@gmail.com
 
 <!---
